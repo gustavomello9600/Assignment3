@@ -21,7 +21,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 5. Lastly, the desired measurements were then summarised by subject and by activity displaying its means for each group.
 
 ## Final Variables
-All the below variables are numeric and normalize, i.e. between -1 and 1. This process makes them unitless.
+All the below variables are numeric and were normalized, i.e. between -1 and 1. This process makes them unitless.
 
 * tBodyAcctGravityAcc
 * tBodyAccJerk
