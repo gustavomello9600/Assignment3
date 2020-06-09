@@ -19,3 +19,23 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 3. The "activity_labels.txt" was then used to name the activities by their identifying numbers.
 4. The "features.txt" was then used to identify the measurements corresponding to the dataset columns.
 5. Lastly, the desired measurements were then summarised by subject and by activity displaying its means for each group.
+
+## Final Variables
+
+tBodyAcc
+tGravityAcc
+tBodyAccJerk
+tBodyGyro
+tBodyGyroJerk
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc
+fBodyAccJerk
+fBodyGyro
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
