@@ -21,21 +21,22 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 5. Lastly, the desired measurements were then summarised by subject and by activity displaying its means for each group.
 
 ## Final Variables
+All the below variables are numeric and normalize, i.e. between -1 and 1. This process makes them unitless.
 
-tBodyAcc
-tGravityAcc
-tBodyAccJerk
-tBodyGyro
-tBodyGyroJerk
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc
-fBodyAccJerk
-fBodyGyro
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+* tBodyAcctGravityAcc
+* tBodyAccJerk
+* tBodyGyro
+* tBodyGyroJerk
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc
+* fBodyAccJerk
+* fBodyGyro
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
+
